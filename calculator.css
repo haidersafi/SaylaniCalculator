@@ -1,0 +1,42 @@
+
+h2{
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+}
+.main{
+    border:2px solid transparent;
+    border-radius: 5px;
+    margin:0 auto;
+    width: 172px;
+    height:220px;
+}
+button{
+    min-width:40px;
+    height:38px;
+}
+button:hover{
+    background-color: black;
+    color:white;
+}
+input{
+    width:95%;
+}
+
+.clearBtn{
+    width:100%;
+    background-color:black;
+    color: white;
+    margin:2px 0;
+}
+.clearBtn:hover{
+    background-color:#EFEFEF;
+    color:black;
+}
+.halfBtn{
+    width: 100%;
+    margin: 0 4.5px;
+    
+}
+.btn{
+    width:30%;
+}
